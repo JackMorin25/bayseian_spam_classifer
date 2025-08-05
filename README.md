@@ -1,1 +1,1 @@
-spam classifier project from AI class
+This project is a simple yet effective implementation of a Naive Bayes classifier used to distinguish between spam and ham (non-spam) emails. The model is trained on labeled email data and uses probabilistic methods to analyze word frequencies and predict whether an incoming message is spam. It serves as a practical example of applying fundamental machine learning techniques in natural language processing (NLP) for real-world tasks like email filtering.
